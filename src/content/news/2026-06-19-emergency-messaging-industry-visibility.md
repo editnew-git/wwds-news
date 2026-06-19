@@ -4,10 +4,10 @@ subheadline: "Association plans stronger press, outreach, and AI-assisted publis
 date: "2026-06-19"
 location: "Las Vegas, Nevada"
 slug: "2026-06-19-emergency-messaging-industry-visibility"
-image: "/images/news/placeholder.jpg"
+image: "/images/news/2026-06-19-emergency-messaging-industry-visibility.png"
 excerpt: "WWDS is expanding press and AI-assisted publishing to position digital signage as a stronger tool for emergency messaging, public information, and resilient community communications ahead of InfoComm 2026."
 tags: ["emergency-messaging", "digital-signage", "public-interest", "industry-visibility", "wwds"]
-draft: false
+draft: true
 ---
 
 Worldwide Digital Signage Association announced a more aggressive public communications strategy designed to raise the visibility of digital signage as a tool not only for commerce, but also for public information, emergency messaging, and community resilience.
