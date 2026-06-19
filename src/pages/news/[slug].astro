@@ -1,34 +1,29 @@
 ---
 import { getCollection, render } from 'astro:content';
+import SiteLayout from '../../layouts/SiteLayout.astro';
 
 export async function getStaticPaths() {
   const posts = await getCollection('news', ({ data }) => !data.draft);
-  return posts.map((post) => ({
-    params: { slug: post.data.slug },
-    props: { post },
-  }));
+  return posts.map((post) => ({ params: { slug: post.data.slug }, props: { post } }));
 }
 
 const { post } = Astro.props;
 const { Content } = await render(post);
+const formatDate = (date: string) => new Intl.DateTimeFormat('en-US', { month: 'long', day: 'numeric', year: 'numeric' }).format(new Date(`${date}T12:00:00`));
 ---
 
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width" />
-    <title>{post.data.title}</title>
-    {post.data.excerpt && <meta name="description" content={post.data.excerpt} />}
-  </head>
-  <body>
-    <article>
-      <header>
-        <h1>{post.data.title}</h1>
-        {post.data.subheadline && <h2>{post.data.subheadline}</h2>}
-        <p>{post.data.date}{post.data.location ? ` - ${post.data.location}` : ''}</p>
-        {post.data.image && <img src={post.data.image} alt={post.data.title} />}
-      </header>
-      <Content />
-    </article>
-  </body>
-</html>
+<SiteLayout title={`${post.data.title} — WWDS`} description={post.data.excerpt}>
+  <article>
+    <header class="article-hero">
+      <p class="eyebrow">Press release</p>
+      <h1 class="article-title">{post.data.title}</h1>
+      {post.data.subheadline && <p class="subheadline">{post.data.subheadline}</p>}
+      <p class="article-meta meta">
+        <span>{formatDate(post.data.date)}</span>
+        {post.data.location && <span>— {post.data.location}</span>}
+      </p>
+    </header>
+    <div class="article-body"><Content /></div>
+  </article>
+  <a class="back-link" href="/news/">← Back to newsroom</a>
+</SiteLayout>

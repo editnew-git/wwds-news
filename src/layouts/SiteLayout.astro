@@ -1,0 +1,109 @@
+---
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = 'News and announcements from Worldwide Digital Signage.' } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" href="/favicon.ico" />
+    <title>{title}</title>
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="wordmark" href="/" aria-label="WWDS News home">
+        <span>WWDS</span><small>Worldwide Digital Signage</small>
+      </a>
+      <nav aria-label="Primary navigation">
+        <a href="/news/">News</a>
+        <a href="https://wwds.co/" target="_blank" rel="noreferrer">wwds.co <span aria-hidden="true">↗</span></a>
+      </nav>
+    </header>
+    <main>
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <span>© {new Date().getFullYear()} Worldwide Digital Signage</span>
+      <a href="mailto:info@wwds.co">Media inquiries</a>
+    </footer>
+  </body>
+</html>
+
+<style is:global>
+  :root {
+    --ink: #131313;
+    --paper: #f5f3ef;
+    --line: rgba(19, 19, 19, .22);
+    --signal: #ff4b22;
+    font-family: Arial, Helvetica, sans-serif;
+    color: var(--ink);
+    background: var(--paper);
+  }
+
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body { margin: 0; min-width: 320px; background: var(--paper); }
+  a { color: inherit; }
+
+  .site-header, .site-footer { display: flex; align-items: center; justify-content: space-between; gap: 2rem; padding: 1.4rem 2rem; }
+  .site-header { border-bottom: 1px solid var(--line); }
+  .wordmark { display: inline-flex; align-items: baseline; gap: .8rem; text-decoration: none; }
+  .wordmark span { font-size: 1.35rem; font-weight: 900; letter-spacing: -.08em; }
+  .wordmark small, nav, .eyebrow, .meta, .site-footer { font-size: .68rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; }
+  nav { display: flex; gap: 1.4rem; }
+  nav a { text-decoration: none; }
+  nav a:hover, .site-footer a:hover { color: var(--signal); }
+  .site-footer { border-top: 1px solid var(--line); color: #5d5a55; }
+  .site-footer a { text-decoration: none; }
+
+  .news-hero { min-height: 61vh; padding: clamp(3.5rem, 9vw, 9rem) 2rem 3rem; display: grid; align-content: end; }
+  .eyebrow { display: flex; gap: .55rem; align-items: center; margin: 0 0 1.4rem; }
+  .eyebrow::before { content: ''; width: .65rem; height: .65rem; background: var(--signal); border-radius: 50%; }
+  .display { max-width: 1100px; margin: 0; font-size: clamp(3.8rem, 11.2vw, 10.8rem); font-weight: 900; letter-spacing: -.095em; line-height: .79; text-transform: uppercase; }
+  .hero-foot { display: flex; justify-content: space-between; gap: 1rem; margin-top: 3rem; padding-top: 1rem; border-top: 1px solid var(--line); color: #5d5a55; }
+  .hero-foot span:last-child { text-align: right; }
+
+  .release-list { border-top: 1px solid var(--ink); }
+  .release-card { display: grid; grid-template-columns: minmax(6rem, 1fr) minmax(0, 3.4fr) auto; gap: 2rem; padding: 1.5rem 2rem 1.8rem; border-bottom: 1px solid var(--line); text-decoration: none; transition: background .2s ease, color .2s ease; }
+  .release-card:hover { background: var(--ink); color: var(--paper); }
+  .release-card:hover .card-index { color: var(--signal); }
+  .card-index, .meta { color: #716d67; }
+  .card-title { max-width: 850px; margin: 0; font-size: clamp(1.55rem, 3.1vw, 3.35rem); font-weight: 800; letter-spacing: -.06em; line-height: .94; }
+  .card-excerpt { max-width: 52rem; margin: 1rem 0 0; font-size: .95rem; line-height: 1.4; }
+  .card-arrow { font-size: 1.6rem; align-self: end; }
+
+  .article-hero { padding: clamp(3.5rem, 8vw, 8rem) 2rem 3rem; background: var(--ink); color: var(--paper); }
+  .article-hero .meta { color: #bdbab4; }
+  .article-hero .eyebrow { color: #e2dfd9; }
+  .article-title { max-width: 1220px; margin: 1.35rem 0 1.65rem; font-size: clamp(2.8rem, 7.2vw, 7rem); font-weight: 900; letter-spacing: -.085em; line-height: .87; text-transform: uppercase; }
+  .subheadline { max-width: 700px; margin: 0; font-size: clamp(1.05rem, 2vw, 1.5rem); line-height: 1.25; }
+  .article-meta { display: flex; gap: .8rem; margin-top: 3rem; padding-top: 1rem; border-top: 1px solid rgba(245,243,239,.3); }
+  .article-body { max-width: 810px; margin: 0 auto; padding: clamp(3rem, 7vw, 7rem) 2rem; font-family: Georgia, 'Times New Roman', serif; font-size: clamp(1.15rem, 1.7vw, 1.38rem); line-height: 1.55; }
+  .article-body > :first-child { margin-top: 0; }
+  .article-body p { margin: 0 0 1.65em; }
+  .article-body h2 { margin: 3rem 0 1rem; font-family: Arial, Helvetica, sans-serif; font-size: 1.1rem; letter-spacing: -.03em; text-transform: uppercase; }
+  .article-body blockquote { margin: 2.5rem 0; padding: 1.3rem 0 1.3rem 1.4rem; border-left: 5px solid var(--signal); font-family: Arial, Helvetica, sans-serif; font-size: 1.4rem; font-weight: 700; line-height: 1.25; }
+  .back-link { display: inline-flex; gap: .75rem; margin: 0 2rem 3rem; font-size: .75rem; font-weight: 700; letter-spacing: .08em; text-decoration: none; text-transform: uppercase; }
+
+  @media (max-width: 650px) {
+    .site-header, .site-footer { padding: 1.1rem 1.15rem; }
+    .wordmark small { display: none; }
+    nav { gap: .9rem; font-size: .6rem; }
+    .news-hero, .article-hero { padding-left: 1.15rem; padding-right: 1.15rem; }
+    .release-card { grid-template-columns: 1fr auto; gap: 1rem; padding: 1.25rem 1.15rem; }
+    .card-index { grid-column: 1 / -1; }
+    .card-arrow { grid-column: 2; grid-row: 2; }
+    .card-title { grid-column: 1; grid-row: 2; }
+    .card-excerpt { grid-column: 1 / -1; }
+    .article-body { padding-left: 1.15rem; padding-right: 1.15rem; }
+    .site-footer { align-items: flex-start; flex-direction: column; gap: .5rem; }
+  }
+</style>

@@ -1,31 +1,28 @@
 ---
 import { getCollection } from 'astro:content';
+import SiteLayout from '../../layouts/SiteLayout.astro';
 
-const allPosts = await getCollection('news', ({ data }) => {
-  return data.draft !== true;
-});
-
-const posts = allPosts.sort((a, b) =>
-  new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
-);
+const posts = (await getCollection('news', ({ data }) => !data.draft))
+  .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
+const formatDate = (date: string) => new Intl.DateTimeFormat('en-US', { month: 'short', day: '2-digit', year: 'numeric' }).format(new Date(`${date}T12:00:00`));
 ---
 
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width" />
-    <title>News</title>
-  </head>
-  <body>
-    <h1>News</h1>
-    <ul>
-      {posts.map((post) => (
-        <li>
-          <a href={`/news/${post.data.slug}`}>{post.data.title}</a>
-          <span> — {post.data.date}</span>
-          {post.data.excerpt && <p>{post.data.excerpt}</p>}
-        </li>
-      ))}
-    </ul>
-  </body>
-</html>
+<SiteLayout title="News — WWDS" description="The latest releases and announcements from Worldwide Digital Signage.">
+  <section class="news-hero">
+    <p class="eyebrow">Worldwide Digital Signage</p>
+    <h1 class="display">The<br />newsroom.</h1>
+    <div class="hero-foot meta"><span>Press releases</span><span>{posts.length.toString().padStart(2, '0')} published</span></div>
+  </section>
+  <section class="release-list" aria-label="Press releases">
+    {posts.map((post, index) => (
+      <a class="release-card" href={`/news/${post.data.slug}`}>
+        <span class="card-index meta">{(index + 1).toString().padStart(2, '0')} / {formatDate(post.data.date)}</span>
+        <div>
+          <h2 class="card-title">{post.data.title}</h2>
+          {post.data.excerpt && <p class="card-excerpt">{post.data.excerpt}</p>}
+        </div>
+        <span class="card-arrow" aria-hidden="true">↗</span>
+      </a>
+    ))}
+  </section>
+</SiteLayout>

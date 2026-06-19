@@ -1,17 +1,32 @@
 ---
+import { getCollection } from 'astro:content';
+import SiteLayout from '../layouts/SiteLayout.astro';
 
+const posts = (await getCollection('news', ({ data }) => !data.draft))
+  .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
+const latest = posts[0];
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<link rel="icon" href="/favicon.ico" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
-</html>
+<SiteLayout title="WWDS — Newsroom">
+  <section class="news-hero">
+    <p class="eyebrow">WWDS / Newsroom</p>
+    <h1 class="display">Signals<br />that matter.</h1>
+    <div class="hero-foot meta">
+      <span>Worldwide Digital Signage</span>
+      <span>Updates, releases &amp; perspective</span>
+    </div>
+  </section>
+
+  {latest && (
+    <section class="release-list" aria-label="Latest news">
+      <a class="release-card" href={`/news/${latest.data.slug}`}>
+        <span class="card-index meta">01 / Latest</span>
+        <div>
+          <h2 class="card-title">{latest.data.title}</h2>
+          {latest.data.excerpt && <p class="card-excerpt">{latest.data.excerpt}</p>}
+        </div>
+        <span class="card-arrow" aria-hidden="true">↗</span>
+      </a>
+    </section>
+  )}
+</SiteLayout>
