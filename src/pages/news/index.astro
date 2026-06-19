@@ -21,7 +21,7 @@ const posts = allPosts.sort((a, b) =>
     <ul>
       {posts.map((post) => (
         <li>
-          <a href={`/news/${post.slug}`}>{post.data.title}</a>
+          <a href={`/news/${post.data.slug}`}>{post.data.title}</a>
           <span> — {post.data.date}</span>
           {post.data.excerpt && <p>{post.data.excerpt}</p>}
         </li>

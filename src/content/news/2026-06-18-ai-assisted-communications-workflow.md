@@ -1,7 +1,7 @@
 ---
 title: "Worldwide Digital Signage Expands AI-Assisted Communications Workflow Ahead of InfoComm 2026"
 subheadline: "WWDS prepares public-facing press, website, and social publishing systems to support industry outreach, public information, and emergency-aware messaging."
-date: 2026-06-18
+date: "2026-06-18"
 location: "Las Vegas, Nevada"
 slug: "2026-06-18-ai-assisted-communications-workflow"
 image: "/images/news/placeholder.jpg"
