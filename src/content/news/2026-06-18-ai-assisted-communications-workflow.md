@@ -4,10 +4,10 @@ subheadline: "WWDS prepares public-facing press, website, and social publishing 
 date: "2026-06-18"
 location: "Las Vegas, Nevada"
 slug: "2026-06-18-ai-assisted-communications-workflow"
-image: "/images/news/placeholder.jpg"
+image: "/images/news/2026-06-18-ai-assisted-communications-workflow.jpg"
 excerpt: "WWDS announced continued rollout of an AI-assisted communications workflow ahead of InfoComm 2026 to streamline press, web, social, and signage publishing for outreach, public information, and emergency-aware messaging."
 tags: ["ai-assisted-workflow", "digital-signage", "infocomm-2026", "public-messaging", "wwds"]
-draft: false
+draft: true
 ---
 
 Worldwide Digital Signage (WWDS) today announced continued rollout of its AI-assisted communications workflow as the company prepares public-facing materials and live event support for InfoComm 2026 in Las Vegas, Nevada. The workflow is designed to help WWDS turn internal discussions, recordings, and operational updates into organized public communications that can be distributed across press releases, website news feeds, social content, and digital signage environments.
