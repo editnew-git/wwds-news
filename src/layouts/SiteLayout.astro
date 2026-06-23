@@ -15,6 +15,9 @@ const { title, description = 'News and announcements from Worldwide Digital Sign
     <meta name="description" content={description} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="icon" href="/favicon.ico" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;0,800;0,900;1,400&display=swap" rel="stylesheet" />
     <title>{title}</title>
   </head>
   <body>
@@ -43,7 +46,7 @@ const { title, description = 'News and announcements from Worldwide Digital Sign
     --paper: #f5f3ef;
     --line: rgba(19, 19, 19, .22);
     --signal: #ff4b22;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Lato', Arial, Helvetica, sans-serif;
     color: var(--ink);
     background: var(--paper);
   }
@@ -89,8 +92,8 @@ const { title, description = 'News and announcements from Worldwide Digital Sign
   .article-body { max-width: 810px; margin: 0 auto; padding: clamp(3rem, 7vw, 7rem) 2rem; font-family: Georgia, 'Times New Roman', serif; font-size: clamp(1.15rem, 1.7vw, 1.38rem); line-height: 1.55; }
   .article-body > :first-child { margin-top: 0; }
   .article-body p { margin: 0 0 1.65em; }
-  .article-body h2 { margin: 3rem 0 1rem; font-family: Arial, Helvetica, sans-serif; font-size: 1.1rem; letter-spacing: -.03em; text-transform: uppercase; }
-  .article-body blockquote { margin: 2.5rem 0; padding: 1.3rem 0 1.3rem 1.4rem; border-left: 5px solid var(--signal); font-family: Arial, Helvetica, sans-serif; font-size: 1.4rem; font-weight: 700; line-height: 1.25; }
+  .article-body h2 { margin: 3rem 0 1rem; font-family: 'Lato', Arial, Helvetica, sans-serif; font-size: 1.1rem; letter-spacing: -.03em; text-transform: uppercase; }
+  .article-body blockquote { margin: 2.5rem 0; padding: 1.3rem 0 1.3rem 1.4rem; border-left: 5px solid var(--signal); font-family: 'Lato', Arial, Helvetica, sans-serif; font-size: 1.4rem; font-weight: 700; line-height: 1.25; }
   .back-link { display: inline-flex; gap: .75rem; margin: 0 2rem 3rem; font-size: .75rem; font-weight: 700; letter-spacing: .08em; text-decoration: none; text-transform: uppercase; }
 
   @media (max-width: 650px) {
