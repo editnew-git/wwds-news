@@ -7,7 +7,7 @@ slug: "2026-06-23-streamlined-newsroom-workflow"
 image: "/images/news/placeholder.jpg"
 excerpt: "Worldwide Digital Signage is introducing a mobile-friendly newsroom workflow to simplify release publishing, improve presentation, and support scalable company communications."
 tags: ["newsroom-workflow", "press-releases", "mobile-newsroom", "google-sheets", "wwds"]
-draft: true
+draft: false
 ---
 
 [Worldwide Digital Signage](http://wwds.co) is preparing a new newsroom-style publishing workflow designed to make press releases easier to create, update, and display across its web presence.
