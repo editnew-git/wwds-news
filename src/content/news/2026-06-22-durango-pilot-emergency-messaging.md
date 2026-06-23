@@ -7,7 +7,7 @@ slug: "2026-06-22-durango-pilot-emergency-messaging"
 image: "/images/news/placeholder.jpg"
 excerpt: "Worldwide Digital Signage announced progress on a Durango, Mexico pilot for missing person reporting and emergency messaging, citing a signed letter of intent, prior Jamaica network success, and next-step technical coordination for broader public-safety communications."
 tags: ["public-safety", "digital-signage", "missing-person-reporting", "emergency-messaging", "mexico", "wwds"]
-draft: true
+draft: false
 ---
 
 June 22, 2026 — Worldwide Digital Signage shared a new operational update outlining progress on its public-safety communications work, including a signed letter of intent for a missing person reporting and digital signage pilot in Durango, Mexico.
