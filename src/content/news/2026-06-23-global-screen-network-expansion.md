@@ -38,4 +38,4 @@ Worldwide Digital Signage Inc. (WWDS) is a leading provider of digital signage s
 
 Worldwide Digital Signage (WWDS)
 info@wwds.co
-#ERROR! (Formula parse error.)
++1 725 226 2246
