@@ -7,7 +7,7 @@ slug: "2026-06-23-global-screen-network-expansion"
 image: "/images/news/placeholder.jpg"
 excerpt: "WWDS announced expanded platform capabilities, new partnerships, and broader global reach across North America, Europe, and Asia-Pacific to improve real-time communications through analytics, content optimization, and third-party integrations."
 tags: ["digital-signage", "global-expansion", "screen-networks", "analytics", "platform-integrations", "wwds"]
-draft: true
+draft: false
 ---
 
 Worldwide Digital Signage (WWDS) today announced a major expansion of its platform capabilities, strategic partnerships, and service footprint across North America, Europe, and Asia-Pacific.
