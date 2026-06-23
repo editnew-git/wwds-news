@@ -7,7 +7,7 @@ slug: "2026-06-23-global-screen-network-expansion"
 image: "/images/news/placeholder.jpg"
 excerpt: "WWDS announced expanded platform capabilities, new partnerships, and broader global reach across North America, Europe, and Asia-Pacific to improve real-time communications through analytics, content optimization, and third-party integrations."
 tags: ["digital-signage", "global-expansion", "screen-networks", "analytics", "platform-integrations", "wwds"]
-draft: false
+draft: true
 ---
 
 Worldwide Digital Signage (WWDS) today announced a major expansion of its platform capabilities, strategic partnerships, and service footprint across North America, Europe, and Asia-Pacific.
@@ -25,10 +25,6 @@ According to the company, WWDS has deployed more than 25,000 screens worldwide, 
 About Worldwide Digital Signage (WWDS)
 
 Worldwide Digital Signage (WWDS) designs, deploys, and manages digital signage and communications solutions that inform, engage, and inspire. From a single screen to a global network, WWDS delivers the technology, content, and services organizations need to connect with audiences anywhere in the world.
-
-> WWDS has been an incredible partner in transforming how we communicate with people everyday. Their technology, reliability, and support are unmatched.
->
-> — Roger Baxter, HPMC
 
 ## About WWDS
 
