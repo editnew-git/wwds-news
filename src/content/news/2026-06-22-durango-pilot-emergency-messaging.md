@@ -12,7 +12,7 @@ draft: false
 
 June 22, 2026 — [Worldwide Digital Signage](http://wwds.co) shared a new operational update outlining progress on its public-safety communications work, including a signed letter of intent for a missing person reporting and digital signage pilot in Durango, Mexico.
 
-The update positions the Durango initiative as part of a broader effort to use digital signage for faster public communication, emergency messaging, and community safety response. It also points to prior network success in Jamaica through Intelligent Multimedia, where the missing-children reporting and digital signage model was described as already functioning across the partner network.
+The update positions the Durango initiative as part of a broader effort to use digital signage for faster public communication, emergency messaging, and community safety response. It also points to prior network success in Jamaica through [Intelligent Multimedia](http://imlja.com), where the missing-children reporting and digital signage model was described as already functioning across the partner network.
 
 Together, those developments suggest growing momentum for signage systems that can do more than deliver commercial messaging. [Worldwide Digital Signage](http://wwds.co) is continuing to frame digital displays as practical infrastructure for public information, urgent alerts, and time-sensitive community communications.
 
