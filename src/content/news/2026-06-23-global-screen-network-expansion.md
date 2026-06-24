@@ -10,21 +10,9 @@ tags: ["digital-signage", "global-expansion", "screen-networks", "analytics", "p
 draft: false
 ---
 
-[Worldwide Digital Signage (WWDS)](http://wwds.co) today announced a major expansion of its platform capabilities, strategic partnerships, and service footprint across North America, Europe, and Asia Pacific.
+and community resilience.
 
-WWDS provides digital signage and communications solutions that help organizations deliver real-time messaging and engaging content across high-traffic environments, including airports, transit systems, commercial real estate, retail, education, and corporate campuses. With a cloud-based platform and end-to-end professional services, WWDS supports clients in connecting with audiences at scale.
-
-The expanded platform introduces advanced analytics, automated content optimization, and integration with third-party systems, giving organizations more tools to improve communication performance and operational efficiency.
-
-According to the company, WWDS has deployed more than 25,000 screens worldwide, serves customers in more than 50 countries, supports more than 1,500 enterprise and public sector clients, and maintains 99.99% platform uptime reliability.
-
-"WWDS has been an incredible partner in transforming how we communicate with people everyday. Their technology, reliability, and support are unmatched," said Roger Baxter of HPMC.
-
-"WWDS continues to set the standard for large-scale digital communications. Their solutions help us deliver the right message to the right audience, at the right time," said Peter Seven of Seven World Operations.
-
-About Worldwide Digital Signage (WWDS)
-
-Worldwide Digital Signage (WWDS) designs, deploys, and manages digital signage and communications solutions that inform, engage, and inspire. From a single screen to a global network, WWDS delivers the technology, content, and services organizations need to connect with audiences anywhere in the world.
+The association is building a high-quality press and content workflow to turn internal discussions
 
 ## About WWDS
 
