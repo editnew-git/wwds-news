@@ -16,7 +16,7 @@ The update positions the Durango initiative as part of a broader effort to use d
 
 Together, those developments suggest growing momentum for signage systems that can do more than deliver commercial messaging. [Worldwide Digital Signage](http://wwds.co) is continuing to frame digital displays as practical infrastructure for public information, urgent alerts, and time-sensitive community communications.
 
-The June 22 update also identified Vancouver Island as a near-term outreach focus and named Roger Baxter of HPMC as the immediate contact for resolving technical hurdles tied to the next stage of deployment.
+The June 22 update also identified Vancouver Island as a near-term outreach focus and named Roger Baxter of [HPMC](http://hpmconnections.com) as the immediate contact for resolving technical hurdles tied to the next stage of deployment.
 
 [Worldwide Digital Signage](http://wwds.co) continues to develop public-facing communication systems intended to support missing person reporting, emergency awareness, and broader information delivery across digital signage networks.
 
