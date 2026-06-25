@@ -12,17 +12,17 @@ draft: true
 
 ![WWDS image](https://wwds.co/assets/images/image01.png)
 
-Worldwide Digital Signage Association announced a more aggressive public communications strategy designed to raise the visibility of digital signage as a tool not only for commerce, but also for public information, emergency messaging, and community resilience.
+[Worldwide Digital Signage Association](https://wwds.co) announced a more aggressive public communications strategy designed to raise the visibility of digital signage as a tool not only for commerce, but also for public information, emergency messaging, and community resilience.
 
 The association is building a high-quality press and content workflow to turn internal discussions, field insights, and member activity into journalist-ready stories, public updates, and industry outreach. That effort includes the development of an AI-assisted press workflow intended to help the organization publish faster, maintain consistency across channels, and support stronger storytelling around real-world signage applications.
 
-Leaders behind the initiative say the digital signage industry has often failed to explain its broader public value in a way that captures media attention or policy interest. Worldwide Digital Signage Association plans to address that gap by producing clear, professional, public-interest narratives that highlight how signage networks can support emergency alerts, evacuation guidance, response updates, missing person awareness, and communications in remote or disrupted environments.
+Leaders behind the initiative say the digital signage industry has often failed to explain its broader public value in a way that captures media attention or policy interest. [Worldwide Digital Signage Association](https://wwds.co) plans to address that gap by producing clear, professional, public-interest narratives that highlight how signage networks can support emergency alerts, evacuation guidance, response updates, missing person awareness, and communications in remote or disrupted environments.
 
-"Our position is simple: digital signage should do more than run promotions," said a spokesperson for Worldwide Digital Signage Association. "When communities face emergencies, infrastructure failures, or fast-moving public events, screens should be part of the communications response."
+"Our position is simple: digital signage should do more than run promotions," said a spokesperson for [Worldwide Digital Signage Association](https://wwds.co). "When communities face emergencies, infrastructure failures, or fast-moving public events, screens should be part of the communications response."
 
 The association's strategy also reflects growing interest in resilient communications systems that combine digital displays with remote management, wireless connectivity, solar support, and low-bandwidth control methods for hard-to-reach areas. The group believes these capabilities could become increasingly important for remote communities, transportation environments, public agencies, and operators responsible for time-sensitive messaging.
 
-As part of this push, Worldwide Digital Signage Association is increasing outbound communications, expanding press activity, and developing association-driven narratives that can spotlight both member innovation and larger industry issues. The goal is to build a more visible network of sign professionals, technology providers, and public-sector collaborators around practical, high-impact communications.
+As part of this push, [Worldwide Digital Signage Association](https://wwds.co) is increasing outbound communications, expanding press activity, and developing association-driven narratives that can spotlight both member innovation and larger industry issues. The goal is to build a more visible network of sign professionals, technology providers, and public-sector collaborators around practical, high-impact communications.
 
 The association said future announcements will further explore applications tied to emergency awareness, remote-community communications, and public service messaging, while continuing to support broader industry outreach ahead of major events including InfoComm 2026.
 
