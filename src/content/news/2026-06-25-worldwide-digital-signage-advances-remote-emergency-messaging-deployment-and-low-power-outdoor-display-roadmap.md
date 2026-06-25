@@ -10,13 +10,13 @@ tags: ["Worldwide Digital Signage", "Sam", "emergency messaging", "digital signa
 draft: false
 ---
 
-Worldwide Digital Signage is advancing a simplified deployment workflow for connected signage that allows devices to be brought online through a Windows mobile hotspot and then remotely configured through the company's Sam signage management platform.
+[Worldwide Digital Signage](https://wwds.co) is advancing a simplified deployment workflow for connected signage that allows devices to be brought online through a Windows mobile hotspot and then remotely configured through the company's Sam signage management platform.
 
 In a recent technical demonstration, the team brought a remote device identified as sign 2727 online under extremely poor internet conditions, created and triggered an emergency alert, and then successfully canceled the alert. The demonstration validated a low-training deployment path in which an installer can connect a laptop to a customer network, enable a hotspot, and allow support staff to complete network configuration remotely.
 
 Once a device is online, Sam can be used to view nearby Wi-Fi networks, create Wi-Fi profiles, and transition signage devices from a temporary hotspot to a more permanent customer network. The workflow is intended to reduce installation complexity and make remote support more practical for customers with limited networking knowledge or challenging site conditions.
 
-The planning session also advanced Worldwide Digital Signage's roadmap for CHLCD outdoor display technology. The display under review is daylight-readable, operates on 12V power, and is being evaluated for battery and solar-powered deployments. Potential use cases include emergency information distribution, disaster recovery messaging, evacuation routing, roadside signage, schools, hospitals, fencing installations, and other public information systems.
+The planning session also advanced [Worldwide Digital Signage](https://wwds.co)'s roadmap for CHLCD outdoor display technology. The display under review is daylight-readable, operates on 12V power, and is being evaluated for battery and solar-powered deployments. Potential use cases include emergency information distribution, disaster recovery messaging, evacuation routing, roadside signage, schools, hospitals, fencing installations, and other public information systems.
 
 The current CHLCD unit is an early alpha or trade-show version with an integrated Android system and proprietary software rather than a direct HDMI input. The team is continuing R&D around hardware integration, HDMI-to-USB options, supplier documentation, power requirements, solar feasibility, and future hardware revisions that could support broader signage platform integration.
 
