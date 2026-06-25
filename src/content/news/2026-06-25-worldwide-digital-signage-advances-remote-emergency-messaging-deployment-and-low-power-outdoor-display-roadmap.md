@@ -4,7 +4,7 @@ subheadline: "Hotspot onboarding, centralized remote configuration, and daylight
 date: "2026-06-25"
 location: "Victoria, Canada"
 slug: "2026-06-25-worldwide-digital-signage-advances-remote-emergency-messaging-deployment-and-low-power-outdoor-display-roadmap"
-image: "/images/news/placeholder.jpg"
+image: "/images/news/2026-06-25-worldwide-digital-signage-advances-remote-emergency-messaging-deployment-and-low-power-outdoor-display-roadmap.png"
 excerpt: "Worldwide Digital Signage is advancing hotspot-based onboarding, remote emergency alert testing, and low-power CHLCD outdoor display development for public information and emergency messaging deployments."
 tags: ["Worldwide Digital Signage", "Sam", "emergency messaging", "digital signage", "CHLCD", "remote deployment", "solar signage", "public information"]
 draft: false
