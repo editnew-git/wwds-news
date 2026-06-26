@@ -4,7 +4,7 @@ subheadline: "New platform capabilities and strategic partnerships power smarter
 date: "2026-06-23"
 location: "Las Vegas, Nevada"
 slug: "2026-06-23-global-screen-network-expansion"
-image: "/images/news/placeholder.jpg"
+image: "/images/news/2026-06-23-global-screen-network-expansion.png"
 excerpt: "WWDS announced expanded platform capabilities, new partnerships, and broader global reach across North America, Europe, and Asia-Pacific to improve real-time communications through analytics, content optimization, and third-party integrations."
 tags: ["digital-signage", "global-expansion", "screen-networks", "analytics", "platform-integrations", "wwds"]
 draft: false
