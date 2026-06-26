@@ -1,9 +1,11 @@
 ---
 import { getCollection } from 'astro:content';
 import SiteLayout from '../../layouts/SiteLayout.astro';
+import { getPublicAsset } from '../../lib/publicAsset';
 
 const posts = (await getCollection('news', ({ data }) => !data.draft))
   .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
+const postsWithImages = posts.map((post) => ({ post, image: getPublicAsset(post.data.image) }));
 const formatDate = (date: string) => new Intl.DateTimeFormat('en-US', { month: 'short', day: '2-digit', year: 'numeric' }).format(new Date(`${date}T12:00:00`));
 ---
 
@@ -14,8 +16,9 @@ const formatDate = (date: string) => new Intl.DateTimeFormat('en-US', { month: '
     <div class="hero-foot meta"><span>Press releases</span><span>{posts.length.toString().padStart(2, '0')} published</span></div>
   </section>
   <section class="release-list" aria-label="Press releases">
-    {posts.map((post, index) => (
+    {postsWithImages.map(({ post, image }, index) => (
       <a class="release-card" href={`/news/${post.data.slug}`}>
+        {image && <img class="card-image" src={image} alt="" loading="lazy" />}
         <span class="card-index meta">{(index + 1).toString().padStart(2, '0')} / {formatDate(post.data.date)}</span>
         <div>
           <h2 class="card-title">{post.data.title}</h2>

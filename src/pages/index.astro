@@ -1,10 +1,12 @@
 ---
 import { getCollection } from 'astro:content';
 import SiteLayout from '../layouts/SiteLayout.astro';
+import { getPublicAsset } from '../lib/publicAsset';
 
 const posts = (await getCollection('news', ({ data }) => !data.draft))
   .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
 const latest = posts[0];
+const latestImage = getPublicAsset(latest?.data.image);
 ---
 
 <SiteLayout title="WWDS — Newsroom">
@@ -20,6 +22,7 @@ const latest = posts[0];
   {latest && (
     <section class="release-list" aria-label="Latest news">
       <a class="release-card" href={`/news/${latest.data.slug}`}>
+        {latestImage && <img class="card-image" src={latestImage} alt="" loading="lazy" />}
         <span class="card-index meta">01 / Latest</span>
         <div>
           <h2 class="card-title">{latest.data.title}</h2>

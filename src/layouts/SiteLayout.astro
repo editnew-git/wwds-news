@@ -75,9 +75,10 @@ const { title, description = 'News and announcements from Worldwide Digital Sign
   .hero-foot span:last-child { text-align: right; }
 
   .release-list { border-top: 1px solid var(--ink); }
-  .release-card { display: grid; grid-template-columns: minmax(6rem, 1fr) minmax(0, 3.4fr) auto; gap: 2rem; padding: 1.5rem 2rem 1.8rem; border-bottom: 1px solid var(--line); text-decoration: none; transition: background .2s ease, color .2s ease; }
+  .release-card { display: grid; grid-template-columns: minmax(8rem, .9fr) minmax(6rem, 1fr) minmax(0, 3.4fr) auto; gap: 2rem; padding: 1.5rem 2rem 1.8rem; border-bottom: 1px solid var(--line); text-decoration: none; transition: background .2s ease, color .2s ease; }
   .release-card:hover { background: var(--ink); color: var(--paper); }
   .release-card:hover .card-index { color: var(--signal); }
+  .card-image { width: 100%; aspect-ratio: 16 / 10; object-fit: cover; align-self: start; background: #ded9d1; }
   .card-index, .meta { color: #716d67; }
   .card-title { max-width: 850px; margin: 0; font-size: clamp(1.55rem, 3.1vw, 3.35rem); font-weight: 800; letter-spacing: -.06em; line-height: .94; }
   .card-excerpt { max-width: 52rem; margin: 1rem 0 0; font-size: .95rem; line-height: 1.4; }
@@ -89,6 +90,7 @@ const { title, description = 'News and announcements from Worldwide Digital Sign
   .article-title { max-width: 1050px; margin: 1.35rem 0 1.65rem; font-size: clamp(2.45rem, 5.25vw, 5.25rem); font-weight: 900; letter-spacing: auto; line-height: .91; }
   .subheadline { max-width: 700px; margin: 0; font-size: clamp(1.05rem, 2vw, 1.5rem); line-height: 1.25; }
   .article-meta { display: flex; gap: .8rem; margin-top: 3rem; padding-top: 1rem; border-top: 1px solid rgba(245,243,239,.3); }
+  .article-image { display: block; width: min(100%, 1120px); max-height: 620px; margin-top: 2.4rem; object-fit: cover; background: #252525; }
   .article-body { max-width: 810px; margin: 0 auto; padding: clamp(3rem, 7vw, 7rem) 2rem; font-family: Georgia, 'Times New Roman', serif; font-size: clamp(1.15rem, 1.7vw, 1.38rem); line-height: 1.55; }
   .article-body > :first-child { margin-top: 0; }
   .article-body p { margin: 0 0 1.65em; }
@@ -109,7 +111,7 @@ const { title, description = 'News and announcements from Worldwide Digital Sign
     nav { gap: .9rem; font-size: .6rem; }
     .news-hero, .article-hero { padding-left: 1.15rem; padding-right: 1.15rem; }
     .release-card { grid-template-columns: 1fr auto; gap: 1rem; padding: 1.25rem 1.15rem; }
-    .card-index { grid-column: 1 / -1; }
+    .card-image, .card-index { grid-column: 1 / -1; }
     .card-arrow { grid-column: 2; grid-row: 2; }
     .card-title { grid-column: 1; grid-row: 2; }
     .card-excerpt { grid-column: 1 / -1; }

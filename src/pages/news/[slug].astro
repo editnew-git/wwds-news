@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import SiteLayout from '../../layouts/SiteLayout.astro';
+import { getPublicAsset } from '../../lib/publicAsset';
 
 export async function getStaticPaths() {
   const posts = await getCollection('news', ({ data }) => !data.draft);
@@ -9,6 +10,7 @@ export async function getStaticPaths() {
 
 const { post } = Astro.props;
 const { Content } = await render(post);
+const articleImage = getPublicAsset(post.data.image);
 const formatDate = (date: string) => new Intl.DateTimeFormat('en-US', { month: 'long', day: 'numeric', year: 'numeric' }).format(new Date(`${date}T12:00:00`));
 ---
 
@@ -22,6 +24,9 @@ const formatDate = (date: string) => new Intl.DateTimeFormat('en-US', { month: '
         <span>{formatDate(post.data.date)}</span>
         {post.data.location && <span>— {post.data.location}</span>}
       </p>
+      {articleImage && (
+        <img class="article-image" src={articleImage} alt="" fetchpriority="high" />
+      )}
     </header>
     <div class="article-body"><Content /></div>
   </article>
