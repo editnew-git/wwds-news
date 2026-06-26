@@ -4,7 +4,7 @@ subheadline: "The latest CHLCD testing points to practical uses for sunlight-rea
 date: "2026-06-26"
 location: "unknown"
 slug: "2026-06-26-worldwide-digital-signage-advances-low-power-outdoor-display-testing-for-public-service-and-commercial-messaging"
-image: "/images/news/placeholder.jpg"
+image: "/images/news/2026-06-26-worldwide-digital-signage-advances-low-power-outdoor-display-testing-for-public-service-and-commercial-messaging.png"
 excerpt: "Worldwide Digital Signage is testing a 32-inch CHLCD display for low-power outdoor signage, with promising uses in public service announcements, restaurants, events, rentals, and food trucks."
 tags: ["Worldwide Digital Signage", "CHLCD", "outdoor signage", "public service announcements", "SAM", "low-power display", "digital signage"]
 draft: false
