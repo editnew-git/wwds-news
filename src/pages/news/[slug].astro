@@ -16,7 +16,10 @@ const formatDate = (date: string) => new Intl.DateTimeFormat('en-US', { month: '
 
 <SiteLayout title={`${post.data.title} — WWDS`} description={post.data.excerpt}>
   <article>
-    <header class="article-hero">
+    <header
+      class:list={['article-hero', articleImage && 'has-bg']}
+      style={articleImage ? `--article-image: url("${articleImage}")` : undefined}
+    >
       <p class="eyebrow">Press release</p>
       <h1 class="article-title">{post.data.title}</h1>
       {post.data.subheadline && <p class="subheadline">{post.data.subheadline}</p>}
@@ -24,9 +27,6 @@ const formatDate = (date: string) => new Intl.DateTimeFormat('en-US', { month: '
         <span>{formatDate(post.data.date)}</span>
         {post.data.location && <span>— {post.data.location}</span>}
       </p>
-      {articleImage && (
-        <img class="article-image" src={articleImage} alt="" fetchpriority="high" />
-      )}
     </header>
     <div class="article-body"><Content /></div>
   </article>

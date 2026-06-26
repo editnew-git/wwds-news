@@ -21,8 +21,11 @@ const latestImage = getPublicAsset(latest?.data.image);
 
   {latest && (
     <section class="release-list" aria-label="Latest news">
-      <a class="release-card" href={`/news/${latest.data.slug}`}>
-        {latestImage && <img class="card-image" src={latestImage} alt="" loading="lazy" />}
+      <a
+        class:list={['release-card', latestImage && 'has-bg']}
+        style={latestImage ? `--release-image: url("${latestImage}")` : undefined}
+        href={`/news/${latest.data.slug}`}
+      >
         <span class="card-index meta">01 / Latest</span>
         <div>
           <h2 class="card-title">{latest.data.title}</h2>
