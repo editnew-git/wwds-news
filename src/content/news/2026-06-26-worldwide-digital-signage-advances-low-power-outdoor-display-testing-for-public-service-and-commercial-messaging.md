@@ -10,7 +10,7 @@ tags: ["Worldwide Digital Signage", "CHLCD", "outdoor signage", "public service 
 draft: false
 ---
 
-Worldwide Digital Signage is advancing testing of a 32-inch CHLCD outdoor display as part of its work to bring low-power, sunlight-readable digital signage into more practical field settings.
+[Worldwide Digital Signage](http://wwds.co) is advancing testing of a 32-inch CHLCD outdoor display as part of its work to bring low-power, sunlight-readable digital signage into more practical field settings.
 
 The latest testing focused on USB/JPEG content ingestion, sleep and backlight behavior, 12V operation, and integration paths with the company SAM signage workflow. The current device shows promise for near-static outdoor messaging where low power use, readable display quality, and simple content updates are important.
 
@@ -18,7 +18,7 @@ Potential near-term applications include public service announcements for remote
 
 The company is continuing technical validation before positioning the display for faster-response use cases. Current testing indicates that additional work is needed before the device is appropriate for real-time transit alerts or urgent emergency notifications, due to update latency observed during import and screen refresh behavior.
 
-Worldwide Digital Signage next steps include USB-to-USB remote sync testing, supplier confirmation of voltage support and screen durability, review of sleep and backlight configuration options, and continued SAM integration testing on 12V signage hardware.
+[Worldwide Digital Signage](http://wwds.co) next steps include USB-to-USB remote sync testing, supplier confirmation of voltage support and screen durability, review of sleep and backlight configuration options, and continued SAM integration testing on 12V signage hardware.
 
 ## About WWDS
 
