@@ -7,7 +7,7 @@ slug: "2026-06-27-worldwide-digital-signage-moves-bookkeeping-from-spreadsheets-
 image: "/images/news/placeholder.jpg"
 excerpt: "Worldwide Digital Signage is moving bookkeeping from spreadsheet-based tracking to QuickBooks Online to improve financial visibility and support cleaner operations as digital signage projects expand."
 tags: ["Worldwide Digital Signage", "QuickBooks Online", "bookkeeping", "operations", "financial visibility", "digital signage"]
-draft: false
+draft: true
 ---
 
 [Worldwide Digital Signage](https://wwds.co) today announced that it is moving its bookkeeping workflow from spreadsheet-based tracking into QuickBooks Online, giving the company a more structured foundation for day-to-day accounting and financial visibility.
