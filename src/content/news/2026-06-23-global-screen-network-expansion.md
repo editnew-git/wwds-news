@@ -18,7 +18,7 @@ The expanded platform introduces advanced analytics, automated content optimizat
 
 According to the company, [WWDS](https://wwds.co) has deployed more than 25,000 screens worldwide, serves customers in more than 50 countries, supports more than 1,500 enterprise and public sector clients, and maintains 99.99% platform uptime reliability. ![WWDS Image2](https://files.slack.com/files-pri/T02FD3FK7-F0BCSTB6FC3/1000010688.jpg?pub_secret=d655ef11c3)
 
-<iframe src="https://layout-iframe.vercel.app/?campId=13930&uuid=0A11CE27-4D19-4122-8747-05CE568C53D2" width="100%" height="720" style="border:0; width:100%;" loading="lazy" allowfullscreen></iframe>
+<iframe src="https://samcmsuser.s3.amazonaws.com/camp/13930/index.html width="100%" height="720" style="border:0; width:100%;" loading="lazy" allowfullscreen></iframe>
 
 ## About WWDS
 
