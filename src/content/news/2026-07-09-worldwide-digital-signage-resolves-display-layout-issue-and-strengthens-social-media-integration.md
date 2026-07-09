@@ -15,7 +15,7 @@ Worldwide Digital Signage has completed an update to resolve a display layout is
 The issue was identified through a customer notification and reviewed by the Worldwide Digital Signage team. After revising and testing the layout in the s.a.m platform, the updated screen presentation was visually approved and is now moving through final documentation and device-level confirmation.
 
 <iframe
- src="https://samcmsuser.s3.amazonaws.com/camp/11659/index.html"
+ src="https://layout-iframe.vercel.app/?campId=11659"
  title="WWDS screen network demo"
  loading="lazy"
  allowfullscreen>
