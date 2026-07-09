@@ -17,8 +17,6 @@ The issue was identified through a customer notification and reviewed by the Wor
 <iframe
  src="https://samcmsuser.s3.amazonaws.com/camp/11659/index.html"
  title="WWDS screen network demo"
- width="100%"
- height="600"
  loading="lazy"
  allowfullscreen>
 </iframe>
