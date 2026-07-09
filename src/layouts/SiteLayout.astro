@@ -108,6 +108,16 @@ const { title, description = 'News and announcements from Worldwide Digital Sign
     height: auto;
     margin: 2rem auto;
   }
+  .article-body iframe {
+    display: block;
+    width: min(1200px, calc(100vw - 4rem));
+    max-width: none;
+    aspect-ratio: 16 / 9;
+    height: auto;
+    margin: 2.5rem 50%;
+    transform: translateX(-50%);
+    border: 0;
+  }
   .article-body p:has(> img:only-child) { margin: 2rem 0; }
   .article-body h2 { margin: 3rem 0 1rem; font-family: 'Lato', Arial, Helvetica, sans-serif; font-size: 1.1rem; letter-spacing: auto; text-transform: }
   .article-body blockquote { margin: 2.5rem 0; padding: 1.3rem 0 1.3rem 1.4rem; border-left: 5px solid var(--signal); font-family: 'Lato', Arial, Helvetica, sans-serif; font-size: 1.4rem; font-weight: 700; line-height: 1.25; }
@@ -125,6 +135,7 @@ const { title, description = 'News and announcements from Worldwide Digital Sign
     .card-title { grid-column: 1; grid-row: 2; }
     .card-excerpt { grid-column: 1 / -1; }
     .article-body { padding-left: 1.15rem; padding-right: 1.15rem; }
+    .article-body iframe { width: calc(100vw - 2.3rem); }
     .site-footer { align-items: flex-start; flex-direction: column; gap: .5rem; }
   }
 </style>
