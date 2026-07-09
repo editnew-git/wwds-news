@@ -4,7 +4,7 @@ subheadline: "WWDS completes a custom-coded update to improve a city-related scr
 date: "2026-07-09"
 location: "Victoria, BC"
 slug: "2026-07-09-worldwide-digital-signage-resolves-display-layout-issue-and-strengthens-social-media-integration"
-image: "/images/news/placeholder.jpg"
+image: "/images/news/2026-07-09-worldwide-digital-signage-resolves-display-layout-issue-and-strengthens-social-media-integration.png"
 excerpt: "Worldwide Digital Signage has resolved a display layout issue and improved social media integration through a custom-coded update for a city-related digital screen."
 tags: ["WWDS", "digital signage", "social media integration", "screen management", "s.a.m platform"]
 draft: false
@@ -14,12 +14,15 @@ Worldwide Digital Signage has completed an update to resolve a display layout is
 
 The issue was identified through a customer notification and reviewed by the Worldwide Digital Signage team. After revising and testing the layout in the s.a.m platform, the updated screen presentation was visually approved and is now moving through final documentation and device-level confirmation.
 
+<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; overflow: hidden;">
 <iframe
  src="https://samcmsuser.s3.amazonaws.com/camp/11659/index.html"
  title="WWDS screen network demo"
+ style="position: absolute; inset: 0; width: 100%; height: 100%; border: 0;"
  loading="lazy"
  allowfullscreen>
 </iframe>
+</div>
 
 The resolution included custom implementation work supported by AI-assisted development tools. The update was not limited to an automated adjustment; it involved direct coding, review, and testing to ensure the layout functioned properly and displayed as intended.
 
