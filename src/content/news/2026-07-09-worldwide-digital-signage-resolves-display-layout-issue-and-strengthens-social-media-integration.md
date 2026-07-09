@@ -14,15 +14,12 @@ Worldwide Digital Signage has completed an update to resolve a display layout is
 
 The issue was identified through a customer notification and reviewed by the Worldwide Digital Signage team. After revising and testing the layout in the s.a.m platform, the updated screen presentation was visually approved and is now moving through final documentation and device-level confirmation.
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; overflow: hidden;">
 <iframe
  src="https://samcmsuser.s3.amazonaws.com/camp/11659/index.html"
  title="WWDS screen network demo"
- style="position: absolute; inset: 0; width: 100%; height: 100%; border: 0;"
  loading="lazy"
  allowfullscreen>
 </iframe>
-</div>
 
 The resolution included custom implementation work supported by AI-assisted development tools. The update was not limited to an automated adjustment; it involved direct coding, review, and testing to ensure the layout functioned properly and displayed as intended.
 
