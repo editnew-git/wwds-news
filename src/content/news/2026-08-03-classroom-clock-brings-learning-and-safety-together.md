@@ -20,6 +20,8 @@ An initial working version has been completed and its classroom alert features h
 
 To view the clock and see the concept in action, visit [911clock.com](http://911clock.com).
 
+![Worldwide Digital Signage press release featuring a classroom clock display with evacuation instructions](https://media.wwds.co/u/a50f970d-12a1-4a8c-86b5-fe73b5b31459.webp)
+
 ## About Worldwide Digital Signage
 
 Worldwide Digital Signage creates visual communication solutions that help organizations share timely, accessible information across digital displays.
