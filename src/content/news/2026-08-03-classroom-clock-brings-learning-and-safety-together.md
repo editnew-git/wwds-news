@@ -4,7 +4,7 @@ subheadline: "A brandable classroom display supports time education and presents
 date: "2026-08-03"
 location: "Las Vegas, Nevada"
 slug: "2026-08-03-classroom-clock-brings-learning-and-safety-together"
-image: "/images/news/placeholder.jpg"
+image: "/images/news/2026-08-03-classroom-clock-brings-learning-and-safety-together.webp"
 excerpt: "Worldwide Digital Signage has unveiled a brandable classroom clock that supports time education during everyday use and displays clear visual instructions during emergencies."
 tags: ["classroom safety", "emergency notifications", "education technology", "digital signage", "school communications"]
 draft: false
