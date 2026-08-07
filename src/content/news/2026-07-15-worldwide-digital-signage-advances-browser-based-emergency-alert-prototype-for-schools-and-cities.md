@@ -1,5 +1,5 @@
 ---
-title: "Worldwide Digital Signage Advances Browser-Based Emergency Alert Prototype for Schools and Cities"
+title: "When Every Second Counts, the Closest Screen Could Help Save Lives"
 subheadline: "The prototype is designed to display classroom clocks, emergency overlays, and public safety alerts through browser-based digital signage without requiring local app installs."
 date: "2026-07-15"
 location: "Las Vegas, Nevada"
