@@ -1,7 +1,7 @@
 ---
 title: "Classroom Clock Brings Learning and Safety Together"
 subheadline: "A brandable classroom display supports time education and presents clear visual instructions during emergencies."
-date: "2026-08-03"
+date: "2026-08-07"
 location: "Las Vegas, Nevada"
 slug: "2026-08-03-classroom-clock-brings-learning-and-safety-together"
 image: "/images/news/2026-08-03-classroom-clock-brings-learning-and-safety-together.webp"
@@ -10,7 +10,7 @@ tags: ["classroom safety", "emergency notifications", "education technology", "d
 draft: false
 ---
 
-**LAS VEGAS, Nevada — August 3, 2026** — [Worldwide Digital Signage](https://wwds.co) has unveiled a classroom clock designed to make everyday learning more engaging while helping schools communicate clear instructions during emergencies.
+**LAS VEGAS, Nevada — August 7, 2026** — [Worldwide Digital Signage](https://wwds.co) has unveiled a classroom clock designed to make everyday learning more engaging while helping schools communicate clear instructions during emergencies.
 
 During regular classroom use, the clock helps educators teach analog and digital time, Roman numerals, elapsed time and fractions. When an authorized safety alert is activated, the display can quickly show easy-to-read instructions such as Evacuate, Hold, Lockdown, Secure or Shelter.
 
@@ -20,7 +20,7 @@ An initial working version has been completed and its classroom alert features h
 
 To view the clock and see the concept in action, visit [911clock.com](http://911clock.com).
 
-![Worldwide Digital Signage press release featuring a classroom clock display with evacuation instructions](https://media.wwds.co/u/a50f970d-12a1-4a8c-86b5-fe73b5b31459.webp)
+![Worldwide Digital Signage press release showing a classroom clock with evacuation instructions](https://media.wwds.co/u/462e5529-4550-459d-b5a1-084a3315dc62.webp)
 
 ## About Worldwide Digital Signage
 
