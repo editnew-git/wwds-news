@@ -18,6 +18,8 @@ The workflow is being designed around ordinary browser access, reducing the need
 
 The company is positioning the prototype as a practical way for schools and civic partners to evaluate emergency messaging on existing display infrastructure, with future work focused on reliability, clear alert presentation, and browser-safe notification behavior.
 
+![WWDS press release graphic showing an emergency coordinator and digital displays presenting public safety alerts in school and civic settings](https://media.wwds.co/u/71b6982f-6d62-40da-89dd-665f48664801.webp)
+
 ## About WWDS
 
 Worldwide Digital Signage Inc. (WWDS) is a leading provider of digital signage solutions for retail, transportation, and public venues. Our displays deliver real-time, high-impact communications where they matter most.
