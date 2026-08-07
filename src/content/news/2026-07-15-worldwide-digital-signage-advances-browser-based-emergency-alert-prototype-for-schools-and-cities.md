@@ -4,7 +4,7 @@ subheadline: "The prototype is designed to display classroom clocks, emergency o
 date: "2026-07-15"
 location: "Las Vegas, Nevada"
 slug: "2026-07-15-worldwide-digital-signage-advances-browser-based-emergency-alert-prototype-for-schools-and-cities"
-image: "/images/news/placeholder.jpg"
+image: "/images/news/2026-07-15-worldwide-digital-signage-advances-browser-based-emergency-alert-prototype-for-schools-and-cities.webp"
 excerpt: "Worldwide Digital Signage is advancing a browser-based emergency alert prototype for schools and cities, with live testing focused on classroom clocks, emergency overlays, earthquake-warning messaging, and practical deployment through connected screens."
 tags: ["emergency alerts", "digital signage", "schools", "cities", "earthquake warning", "SAM", "public safety"]
 draft: false
