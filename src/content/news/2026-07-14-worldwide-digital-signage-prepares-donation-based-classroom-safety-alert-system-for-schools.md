@@ -7,7 +7,7 @@ slug: "2026-07-14-worldwide-digital-signage-prepares-donation-based-classroom-sa
 image: "/images/news/placeholder.jpg"
 excerpt: "Worldwide Digital Signage is preparing a donation-based classroom safety alert system for schools, combining browser-based classroom clocks with emergency messaging workflows."
 tags: ["school safety", "classroom alerts", "emergency messaging", "digital signage", "donation-based rollout", "Worldwide Digital Signage"]
-draft: false
+draft: true
 ---
 
 [Worldwide Digital Signage](https://wwds.co) is preparing a public-facing school safety initiative designed to help schools display classroom clocks during normal operations and quickly switch to emergency alert messaging when urgent communication is required.
