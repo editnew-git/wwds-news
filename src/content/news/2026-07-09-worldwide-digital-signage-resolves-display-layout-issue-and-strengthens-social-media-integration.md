@@ -7,7 +7,7 @@ slug: "2026-07-09-worldwide-digital-signage-resolves-display-layout-issue-and-st
 image: "/images/news/2026-07-09-worldwide-digital-signage-resolves-display-layout-issue-and-strengthens-social-media-integration.png"
 excerpt: "Worldwide Digital Signage has resolved a display layout issue and improved social media integration through a custom-coded update for a city-related digital screen."
 tags: ["WWDS", "digital signage", "social media integration", "screen management", "s.a.m platform"]
-draft: false
+draft: true
 ---
 
 Worldwide Digital Signage has completed an update to resolve a display layout issue affecting the right-hand content area of a city-related digital screen. The improvement enhances how social media content is displayed and removes the need for a third-party widget in that portion of the layout.
