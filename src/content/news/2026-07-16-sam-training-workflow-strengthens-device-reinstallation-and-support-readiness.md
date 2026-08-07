@@ -7,7 +7,7 @@ slug: "2026-07-16-sam-training-workflow-strengthens-device-reinstallation-and-su
 image: "/images/news/placeholder.jpg"
 excerpt: "Worldwide Digital Signage is preparing new SAM training documentation to standardize Sam stick operating system reinstall support with clearer steps, screenshots, and guidance."
 tags: ["SAM", "Sam stick", "technical training", "knowledge base", "device support", "digital signage"]
-draft: false
+draft: true
 ---
 
 [Worldwide Digital Signage](https://wwds.co) is preparing a new public-facing training resource for the SAM platform, designed to help support teams and authorized users complete Sam stick operating system reinstall training with greater consistency and confidence.
