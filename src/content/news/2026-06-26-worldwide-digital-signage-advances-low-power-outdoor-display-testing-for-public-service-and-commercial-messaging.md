@@ -1,5 +1,5 @@
 ---
-title: "Worldwide Digital Signage Advances Low-Power Outdoor Display Testing for Public Service and Commercial Messaging"
+title: "Where Power and Internet Fall Short, WWDS Could Still Deliver the Message"
 subheadline: "The latest CHLCD testing points to practical uses for sunlight-readable signage in remote communities, restaurants, events, rentals, and mobile food service."
 date: "2026-06-26"
 location: "unknown"
