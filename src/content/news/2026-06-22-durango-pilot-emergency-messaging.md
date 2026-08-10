@@ -4,7 +4,7 @@ subheadline: "Latest development adds a repeatable public-information clock fram
 date: "2026-06-22"
 location: "Durango, Mexico"
 slug: "2026-06-22-durango-pilot-emergency-messaging"
-image: "/images/news/placeholder.jpg"
+image: "/images/news/2026-06-22-durango-pilot-emergency-messaging.webp"
 excerpt: "WWDS is expanding its proposed Durango public-safety pilot with a repeatable digital messaging framework, rapid alert controls, and plans for broader cross-platform deployment."
 tags: ["public-safety", "digital-signage", "missing-person-reporting", "emergency-messaging", "mexico", "wwds"]
 draft: false
