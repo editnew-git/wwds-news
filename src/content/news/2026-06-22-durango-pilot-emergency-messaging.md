@@ -1,24 +1,39 @@
 ---
-title: "Worldwide Digital Signage Advances Durango Pilot for Missing Person Reporting and Emergency Messaging"
-subheadline: "New update highlights a signed letter of intent in Durango, prior network success in Jamaica, and next-step technical coordination for broader public-safety messaging deployment."
+title: "WWDS Expands Durango Public-Safety Pilot with New Digital Messaging Framework"
+subheadline: "Latest development adds a repeatable public-information clock framework, rapid alert controls, and plans for broader cross-platform deployment."
 date: "2026-06-22"
 location: "Durango, Mexico"
 slug: "2026-06-22-durango-pilot-emergency-messaging"
 image: "/images/news/placeholder.jpg"
-excerpt: "Worldwide Digital Signage announced progress on a Durango, Mexico pilot for missing person reporting and emergency messaging, citing a signed letter of intent, prior Jamaica network success, and next-step technical coordination for broader public-safety communications."
+excerpt: "WWDS is expanding its proposed Durango public-safety pilot with a repeatable digital messaging framework, rapid alert controls, and plans for broader cross-platform deployment."
 tags: ["public-safety", "digital-signage", "missing-person-reporting", "emergency-messaging", "mexico", "wwds"]
 draft: false
 ---
 
-June 22, 2026 — [Worldwide Digital Signage](http://wwds.co) shared a new operational update outlining progress on its public-safety communications work, including a signed letter of intent for a missing person reporting and digital signage pilot in Durango, Mexico.
+June 22, 2026 — Durango, Mexico — [Worldwide Digital Signage](https://wwds.co) Inc. (WWDS) is advancing its proposed Durango public-safety pilot following a signed letter of intent supporting the testing of missing-person reporting and emergency messaging through digital displays.
 
-The update positions the Durango initiative as part of a broader effort to use digital signage for faster public communication, emergency messaging, and community safety response. It also points to prior network success in Jamaica through [Intelligent Multimedia](http://imlja.com), where the missing-children reporting and digital signage model was described as already functioning across the partner network.
+Since the initiative was first announced, WWDS has developed a repeatable, browser-based clock and messaging framework designed to combine routine public information with time-sensitive alerts. The framework is ready for internal replication while the team continues simplifying its setup and evaluating cross-platform and white-label deployment options.
 
-Together, those developments suggest growing momentum for signage systems that can do more than deliver commercial messaging. [Worldwide Digital Signage](http://wwds.co) is continuing to frame digital displays as practical infrastructure for public information, urgent alerts, and time-sensitive community communications.
+The next phase includes coordination with the State of Durango, development of localized visual assets, and assessment of how the framework could support public-sector missing-person alerts alongside regular community messaging. Deployment timing and final technical scope remain subject to coordination with Durango stakeholders.
 
-The June 22 update also identified Vancouver Island as a near-term outreach focus and named Roger Baxter of [HPMC](http://hpmconnections.com) as the immediate contact for resolving technical hurdles tied to the next stage of deployment.
+WWDS has also refined remote alert controls intended to help authorized users activate and clear urgent messages quickly. These developments support the company’s broader goal of enabling existing digital displays to serve both everyday communication and public-safety needs.
 
-[Worldwide Digital Signage](http://wwds.co) continues to develop public-facing communication systems intended to support missing person reporting, emergency awareness, and broader information delivery across digital signage networks.
+Intelligent Multimedia in Jamaica has been selected as the first external target for the related clock and reporting framework. WWDS has previously cited the partner’s missing-children reporting network in Jamaica as an example informing the wider initiative.
+
+Together, the Durango and Jamaica work reflects growing interest in digital signage that can move beyond commercial content to support missing-person notices, emergency awareness, and other time-sensitive public information.
+
+WWDS is continuing technical and design coordination before announcing a pilot launch date.
+
+## About Worldwide Digital Signage Inc.
+
+Worldwide Digital Signage Inc. develops digital signage solutions for retail, transportation, public venues, and community communications. Its technology supports real-time content delivery and public-information messaging across connected displays.
+
+## Media Contact
+
+Jeremiah Archambault  
+[info@wwds.co](mailto:info@wwds.co)  
+[+1 725 226 2246](tel:+17252262246)  
+[wwds.co](https://wwds.co)
 
 ## About WWDS
 
