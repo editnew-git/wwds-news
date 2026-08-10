@@ -24,17 +24,6 @@ Together, the Durango and Jamaica work reflects growing interest in digital sign
 
 WWDS is continuing technical and design coordination before announcing a pilot launch date.
 
-## About Worldwide Digital Signage Inc.
-
-Worldwide Digital Signage Inc. develops digital signage solutions for retail, transportation, public venues, and community communications. Its technology supports real-time content delivery and public-information messaging across connected displays.
-
-## Media Contact
-
-Jeremiah Archambault  
-[info@wwds.co](mailto:info@wwds.co)  
-[+1 725 226 2246](tel:+17252262246)  
-[wwds.co](https://wwds.co)
-
 ## About WWDS
 
 Worldwide Digital Signage Inc. (WWDS) is a leading provider of digital signage solutions for retail, transportation, and public venues. Our displays deliver real-time, high-impact communications where they matter most.
