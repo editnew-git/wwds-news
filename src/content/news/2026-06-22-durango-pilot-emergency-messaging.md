@@ -24,6 +24,8 @@ Together, the Durango and Jamaica work reflects growing interest in digital sign
 
 WWDS is continuing technical and design coordination before announcing a pilot launch date.
 
+![WWDS press release poster about the proposed Durango public-safety pilot and digital messaging framework](https://media.wwds.co/u/3a779587-af97-4a5e-868b-16e617fe276d.webp)
+
 ## About WWDS
 
 Worldwide Digital Signage Inc. (WWDS) is a leading provider of digital signage solutions for retail, transportation, and public venues. Our displays deliver real-time, high-impact communications where they matter most.
