@@ -1,5 +1,5 @@
 ---
-title: "Worldwide Digital Signage Demonstrates Voice-Driven AI Workflow for Remote Screen and Web Updates"
+title: "Say It, and the Screen Changes: Worldwide Digital Signage Demonstrates Voice-Driven AI"
 subheadline: "New workflow enables authorized users to create and distribute public-facing information through spoken instructions, reducing the need for manual content updates."
 date: "2026-08-14"
 location: "Victoria, British Columbia"
