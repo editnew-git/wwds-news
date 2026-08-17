@@ -22,6 +22,8 @@ The demonstrated workflow also uses AI to organize and improve the information s
 
 Worldwide Digital Signage plans to share the capability with selected partners and stakeholders as it evaluates potential deployments across public-information and commercial-signage environments.
 
+![Worldwide Digital Signage infographic explaining a voice-driven AI workflow for updating public information screens and web notices](https://media.wwds.co/u/pressly-pr-wwds-20260814-001-99c181e8fd612d19de0364ea1fbd23379580ee6fbbb99aa8421a74f498f6a158.webp)
+
 ## About WWDS
 
 Worldwide Digital Signage Inc. (WWDS) is a leading provider of digital signage solutions for retail, transportation, and public venues. Our displays deliver real-time, high-impact communications where they matter most.
