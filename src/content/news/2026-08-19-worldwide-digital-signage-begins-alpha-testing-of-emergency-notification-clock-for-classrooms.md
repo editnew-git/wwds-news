@@ -25,6 +25,8 @@ The alpha test is an early development milestone. Additional details about avail
 
 Worldwide Digital Signage develops digital communication solutions that help organizations deliver timely, relevant information across connected displays. Its work includes emergency communication, classroom technology, and tools designed to improve how critical messages reach communities.
 
+![WWDS emergency notification clock infographic showing everyday classroom clock mode, emergency alert mode, key benefits, and a snowy school campus](https://media.wwds.co/u/pressly-pr-wwds-20260819-001-1c9139e13e88bd8f4ae0d650aac831b51fb13e8bc1220a5f1253a639bd920677.webp)
+
 > unknown
 >
 > — unknown
