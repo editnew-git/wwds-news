@@ -36,6 +36,8 @@ Worldwide Digital Signage
 info@wwds.co  
 +1 725 226 2246
 
+![WWDS press release graphic about daylight-visible displays for glass installations](https://media.wwds.co/u/pressly-pr-wwds-20260827-001-96131a8292655b1ecef3152641808a5590d739b43f0cec8cce5a01294d54b12e.webp)
+
 > unknown
 >
 > — unknown
