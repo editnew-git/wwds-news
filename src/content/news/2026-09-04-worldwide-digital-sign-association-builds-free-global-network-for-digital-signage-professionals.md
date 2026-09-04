@@ -1,7 +1,7 @@
 ---
 title: "Worldwide Digital Sign Association Builds Free Global Network for Digital Signage Professionals"
 subheadline: "Free industry association aims to connect experienced professionals, share knowledge, showcase projects, strengthen referrals, and coordinate Level 2 support."
-date: "2026-09-04"
+date: "2026-09-03"
 location: "Las Vegas, Nevada"
 slug: "2026-09-04-worldwide-digital-sign-association-builds-free-global-network-for-digital-signage-professionals"
 image: "/images/news/2026-09-04-worldwide-digital-sign-association-builds-free-global-network-for-digital-signage-professionals.webp"
