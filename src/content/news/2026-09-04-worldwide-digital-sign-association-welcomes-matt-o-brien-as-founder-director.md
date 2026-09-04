@@ -22,7 +22,7 @@ The tool is available as freeware at [911clock.com](http://911clock.com). Its br
 
 O’Brien’s appointment strengthens the association’s effort to connect experienced professionals while advancing accessible digital-signage applications for education and public safety.
 
-![Press release graphic announcing Matt O’Brien as Founding Director and highlighting the classroom emergency clock initiative.](https://media.wwds.co/u/pressly-pr-wwds-20260904-002-fdd383cf17c364f622e298f9d2e72b6311ff904873b68321ef6aae0e768102ff.webp)
+![Press release graphic announcing Matt O’Brien as Founding Director and highlighting the classroom emergency clock initiative.](https://media.wwds.co/u/pressly-pr-wwds-20260904-002-0a46ccc3614f434e324d50635585a8ff640fffb4ab5fadde360e2a13278e859a.webp)
 
 ## About the Worldwide Digital Sign Association
 
