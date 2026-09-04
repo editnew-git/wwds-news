@@ -30,6 +30,8 @@ info@wwds.co
 +1 725 226 2246  
 [wwds.co](https://wwds.co)
 
+![WWDS press release graphic about its free global network for digital signage professionals](https://media.wwds.co/u/pressly-pr-wwds-20260904-001-1a899ad706ea35329d9b619dd16362bbf86a837dfe20372fe450b12401a6a97a.webp)
+
 > unknown
 >
 > — unknown
