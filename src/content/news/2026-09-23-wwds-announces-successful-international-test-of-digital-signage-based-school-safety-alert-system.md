@@ -24,6 +24,8 @@ WWDS is calling for broader awareness of silent alert capabilities among schools
 
 The international demonstration is an initial showcase, not a substitute for school emergency planning, training, local requirements, or coordination with public-safety authorities. Individual deployments should be tested and governed within each school’s approved emergency response procedures.
 
+![Branded WWDS press release graphic showing school safety alert displays in Canada and the Philippines](https://media.wwds.co/u/pressly-pr-wwds-20260923-001-28ca6756827cec8eb92d0b11537f1d95e6cea1e591a18ab4210cd54cf88c6b74.webp)
+
 ## About Worldwide Digital Signage
 
 Worldwide Digital Signage supports awareness and practical adoption of digital signage applications, including emerging uses that can strengthen communication in schools and other mission-critical environments. For more information, visit [WWDS News](https://news.wwds.co).
