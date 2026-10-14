@@ -20,6 +20,8 @@ The project reflects Worldwide Digital Signage’s practical approach to large-f
 
 Additional project details, deployment timing, and approved imagery will be announced as work progresses.
 
+![Worldwide Digital Signage press release graphic showing the Esquimalt Hockey Society LED video wall project](https://media.wwds.co/u/pressly-pr-wwds-20261012-001-a812a9af8dc84f100fc0d4064476f564aa2d3017dffbd7d654879edc637db1f1.webp)
+
 ## About Worldwide Digital Signage
 
 Worldwide Digital Signage provides advanced digital signage support, training, and operational guidance, helping organizations deploy, manage, and maintain effective screen networks.
@@ -31,10 +33,6 @@ Worldwide Digital Signage
 info@wwds.co  
 +1 725 226 2246  
 [wwds.co](https://wwds.co)
-
-> unknown
->
-> — unknown
 
 ## About WWDS
 
