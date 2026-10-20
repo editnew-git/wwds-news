@@ -23,18 +23,6 @@ Manufacturing preparations are also underway to evaluate factory-level installat
 
 Feedback from the testing phase will help WWDS validate onboarding, pricing and deployment requirements before any broader commercial availability is announced. The company has not yet confirmed final hardware specifications, manufacturing schedules or pricing.
 
-## About Worldwide Digital Signage
-
-Worldwide Digital Signage develops digital communication solutions for connected displays, including applications for education, public information and emergency communication. For more information, visit [WWDS News](https://news.wwds.co).
-
-## Media Contact
-
-Jeremiah Archambault  
-Worldwide Digital Signage  
-[info@wwds.co](mailto:info@wwds.co)  
-+1 725 226 2246  
-[wwds.co](https://wwds.co)
-
 ## About WWDS
 
 Worldwide Digital Signage Inc. (WWDS) is a leading provider of digital signage solutions for retail, transportation, and public venues. Our displays deliver real-time, high-impact communications where they matter most.
