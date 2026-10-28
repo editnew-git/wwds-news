@@ -22,20 +22,12 @@ The demonstration highlighted the potential for rapidly activated safety communi
 
 Supporting photographs and a post-production video are expected to be released following the demonstration. The team is also planning additional testing as it continues exploring practical pathways for school and classroom deployment.
 
-## About Worldwide Digital Signage Inc.
-
-Worldwide Digital Signage Inc. provides digital-signage support, training and technology solutions designed to help organizations communicate critical information efficiently.
-
 ## Media Contact
 
 Worldwide Digital Signage Inc.  
 [info@wwds.co](mailto:info@wwds.co)  
 [+1 725 226 2246](tel:+17252262246)  
 [wwds.co](https://wwds.co)
-
-> unknown
->
-> — unknown
 
 ## About WWDS
 
