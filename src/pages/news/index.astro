@@ -18,11 +18,13 @@ const formatDate = (date: string) => new Intl.DateTimeFormat('en-US', { month: '
   <section class="release-list" aria-label="Press releases">
     {postsWithImages.map(({ post, image }, index) => (
       <a
-        class:list={['release-card', image && 'has-bg']}
-        style={image ? `--release-image: url("${image}")` : undefined}
+        class="release-card"
         href={`/news/${post.data.slug}`}
       >
-        <span class="card-index meta">{(index + 1).toString().padStart(2, '0')} / {formatDate(post.data.date)}</span>
+        <div class="card-media">
+          <span class="card-index meta">{(index + 1).toString().padStart(2, '0')} / {formatDate(post.data.date)}</span>
+          {image && <img class="card-image" src={image} alt="" width="1280" height="720" loading="lazy" />}
+        </div>
         <div>
           <h2 class="card-title">{post.data.title}</h2>
           {post.data.excerpt && <p class="card-excerpt">{post.data.excerpt}</p>}
