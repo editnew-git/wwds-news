@@ -19,11 +19,7 @@ The demonstration showed how authorized users could direct alerts to multiple si
 
 ## Watch the Live Demonstration
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/E846TXNIQPw" title="WWDS school-alert live test from Mexico to the Philippines" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
-[Open the demonstration on YouTube.](https://youtu.be/E846TXNIQPw)
+[Pressly video](https://www.youtube.com/watch?v=E846TXNIQPw "WWDS Live Test Delivers Browser-Based School Alerts from Mexico to the Philippines")
 
 WWDS is developing the technology for potential use in schools, universities and other locations that need visible emergency instructions. The browser-based approach is intended to support compatible display devices without requiring users to operate specialized screen-management tools.
 
