@@ -4,11 +4,15 @@ subheadline: "Public-awareness initiative seeks collaboration to improve the del
 date: "2026-11-13"
 location: "British Columbia, Canada"
 slug: "2026-11-13-worldwide-digital-signage-inc-calls-for-silent-emergency-alerts-in-british-columbia-classrooms"
-image: "/images/news/placeholder.jpg"
+image: "/images/news/2026-11-13-worldwide-digital-signage-inc-calls-for-silent-emergency-alerts-in-british-columbia-classrooms.png"
 excerpt: "Worldwide Digital Signage Inc. is launching a public-awareness and stakeholder outreach initiative focused on silent emergency-alert capabilities for classrooms across British Columbia."
 tags: ["Emergency Alerts", "Classroom Safety", "British Columbia", "Public Safety"]
 draft: false
 ---
+
+<!-- pressly-cover -->
+*AI-generated illustration; not a photograph of the reported event.*
+<!-- /pressly-cover -->
 
 **BRITISH COLUMBIA, CANADA — November 13, 2026** — [Worldwide Digital Signage](https://wwds.co) Inc. (WWDS) is launching a public-awareness and stakeholder outreach initiative focused on silent emergency-alert capabilities for classrooms across British Columbia.
 
